@@ -1,0 +1,51 @@
+.adminlogin{
+  display: grid;
+  place-items: center;
+  background-size: cover;
+  background-position: center;
+  height: 620px;
+  background-image: url("https://c0.wallpaperflare.com/preview/447/552/983/ecommerce-online-shop-euro.jpg");
+}
+
+  .regform {
+    display: flex;
+    flex-direction: column;
+     align-content: center;
+    width: 300px; 
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #bdbaba;
+   
+    margin-bottom: 100px;
+    
+    position: relative;
+    height: 160px;
+  }
+
+  .error {
+    color: red;
+    font-size: 14px;
+  }
+  
+  .adh {
+    text-align: center;
+    font-size: 30px;
+    color :red;
+    margin-top: 10px;
+  }
+
+  .a-login {
+    background-color: #143076;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .a-login:hover {
+    background-color: #0056b3;
+  }
+  

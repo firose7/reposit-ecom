@@ -1,0 +1,52 @@
+.r-reg{
+    display: grid;
+    place-items: center;
+    background-size: cover;
+    background-position: center;
+    height: 620px;
+    background-image: url("https://t3.ftcdn.net/jpg/05/84/97/90/240_F_584979015_Um2QtVrUDxjmh4EGgGvWTKSkmFmmIbse.jpg");
+  }
+  
+    .r-regform {
+      display: flex;
+      flex-direction: column;
+      align-content: center;
+      width: 300px; 
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background-image: url("https://img.freepik.com/free-psd/shopping-vertical-background_23-2150409471.jpg");
+      margin-bottom: 100px;
+      position: relative;
+      height: 360px;
+      
+    }
+  
+    .error {
+      color: red;
+      font-size: 14px;
+    }
+    
+    .rh {
+      text-align: center;
+      font-size: 30px;
+      color :red;
+      margin-top: 15px;
+      margin-bottom: 15px;
+      font-family:'Courier New', Courier, monospace ;
+    }
+  
+    .reg {
+      background-color: #143076;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .reg:hover {
+      background-color: #0056b3;
+    }
+    

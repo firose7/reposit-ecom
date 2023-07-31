@@ -1,0 +1,18 @@
+.adminpage{
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-position: center;
+    height: 300px;
+    background-color: rgba(255, 81, 0, 0.652);
+}
+
+.aph1{
+    margin: 15px;
+    color: darkblue;
+}
+
+.adminedits{
+    margin: 15px;
+}

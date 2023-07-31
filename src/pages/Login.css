@@ -1,0 +1,50 @@
+.l-login{
+  font-size: 16px;
+  display: grid;
+  place-items: center;
+  background-position: center;
+  height: 620px;
+  background-image: url("https://wallpaperaccess.com/full/2338249.jpg");
+}
+
+  .l-regform {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 300px; 
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #bdbaba;
+    margin-bottom: 100px;
+    position: relative;
+    height: 300px;
+  }
+
+  .error {
+    color: red;
+    font-size: 14px;
+  }
+  
+  .login-h2 {
+    text-align: center;
+    font-size: 30px;
+    color :red;
+    margin-top: 10px;
+  }
+  
+  .l-loginbtn:hover {
+    background-color: #0056b3;
+  }
+
+  .l-loginbtn {
+    background-color: #04070e;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  

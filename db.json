@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "username": "firose hussain",
+      "email": "firose@gmail.com",
+      "password": "123456",
+      "gender": "male",
+      "address": "pondicherry",
+      "number": "7539922707",
+      "id": 1
+    },
+    {
+      "email": "mark@m.com",
+      "password": "11111",
+      "username": "mark",
+      "address": "17  , San Francisco",
+      "gender": "male",
+      "number": "56385687686",
+      "id": 2
+    },
+    {
+      "email": "tom@gmail.com",
+      "username": "tom",
+      "password": "55555",
+      "address": "america",
+      "gender": "male",
+      "number": "987465416351",
+      "id": 3
+    },
+    {
+      "username": "steve",
+      "email": "steve@s.com",
+      "password": "98765",
+      "gender": "male",
+      "address": "france",
+      "number": "03213544698",
+      "id": 4
+    },
+    {
+      "email": "ben@gmail.com",
+      "username": "ben",
+      "password": "ben10",
+      "address": "north america",
+      "gender": "male",
+      "number": 6541654,
+      "id": 5
+    },
+    {
+      "username": "hank",
+      "email": "hank@h.com",
+      "password": "00000",
+      "gender": "male",
+      "address": "grggg",
+      "number": "654164",
+      "id": 6
+    }
+  ]
+}
